@@ -1,8 +1,8 @@
 # 24-7Bot
 Código de video para mantener el bot 24/7
 
-Vídeo: [Ver](https://video.com).
-Discord: [Ir](https://dsc.gg/tecnobros).
+# Vídeo: [Ver](https://video.com). \n
+# Discord: [Ir](https://dsc.gg/tecnobros).
 
 No olvides darle like y suscribirte ;)
 
