@@ -3,7 +3,12 @@ Código de video para mantener el bot 24/7
 
 Vídeo: 
 
-Código usado en el video:
+
+<details><summary>Código usado en el video:</summary>
+<p>
+
+#### We can hide anything, even code!
+
 ````js
 const express = require('express')
 const server = express();
@@ -15,5 +20,9 @@ server.all('/', (req, res) => {
 server.listen(3000, () => {
     console.log('Servidor Listo.');
  });````
+
+</p>
+</details>
  
+
  
