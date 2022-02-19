@@ -7,7 +7,7 @@ Vídeo:
 <details><summary>Código usado en el video:</summary>
 <p>
 
-#### We can hide anything, even code!
+#### Código:
 
 ````js
 const express = require('express')
