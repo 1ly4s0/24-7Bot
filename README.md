@@ -1,7 +1,7 @@
 # 24-7Bot
 Código de video para mantener el bot 24/7
 
-Vídeo: 
+Vídeo: [Ver](https://video.com).
 
 
 <details><summary>Código usado en el video:</summary>
@@ -20,7 +20,4 @@ server.all('/', (req, res) => {
 server.listen(3000, () => {
     console.log('Servidor Listo.');
  });
-<p>
-  
-
- 
+# 24-7Bot
